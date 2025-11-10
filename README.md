@@ -1,4 +1,4 @@
-# 🌍 GeoLens
+# 🌍 Geolens
 
 **GeoLens** is a modern, interactive web application that provides comprehensive information about countries around the world. Built with React and powered by the REST Countries API, GeoLens offers users an intuitive interface to explore countries, their demographics, geography, and fascinating facts.
 
